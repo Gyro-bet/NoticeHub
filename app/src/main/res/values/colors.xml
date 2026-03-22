@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- ── Background ── -->
+    <color name="bg">#0D0F14</color>
+    <color name="bg_canvas">#070910</color>
+
+    <!-- ── Surfaces ── -->
+    <color name="surface">#13161E</color>
+    <color name="surface2">#1A1E2A</color>
+
+    <!-- ── Borders & Dividers ── -->
+    <color name="border">#252A38</color>
+
+    <!-- ── Brand Accents ── -->
+    <color name="accent">#4F8EF7</color>
+    <color name="accent2">#7C5CFC</color>
+
+    <!-- ── Semantic Colors ── -->
+    <color name="green">#2EE8A5</color>
+    <color name="amber">#F5A623</color>
+    <color name="red">#FF5E5E</color>
+    <color name="purple">#E8A0F7</color>
+
+    <!-- ── Text ── -->
+    <color name="text_primary">#E8EAF0</color>
+    <color name="text_secondary">#8B92A8</color>
+    <color name="text_muted">#555C70</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- ── Course Color Coding ── -->
+    <color name="course_bsd221">#4F8EF7</color>  <!-- Data Structures  -->
+    <color name="course_bsd222">#7C5CFC</color>  <!-- OS Concepts       -->
+    <color name="course_bsd223">#2EE8A5</color>  <!-- Web Dev           -->
+    <color name="course_bsd224">#F5A623</color>  <!-- Database Systems  -->
+    <color name="course_bsd225">#FF5E5E</color>  <!-- Net Engineering   -->
+    <color name="course_bsd226">#E8A0F7</color>  <!-- Software Eng      -->
+
+    <!-- ── Tag / Badge Backgrounds (low opacity equivalents) ── -->
+    <color name="tag_announcement_bg">#12264A</color>
+    <color name="tag_discussion_bg">#0A2619</color>
+    <color name="tag_attachment_bg">#2A1E05</color>
 </resources>
